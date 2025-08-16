@@ -6,6 +6,10 @@ Um projeto desenvolvido com o objetivo praticar conceitos de estruturação de p
 🔹HTML5
 🔹CSS3
 
+📸 Preview
+
+
+
 📚 Aprendizados
 
 🔹 Estruturação com HTML semântico
