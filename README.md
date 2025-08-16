@@ -8,7 +8,10 @@ Um projeto desenvolvido com o objetivo praticar conceitos de estruturação de p
 
 📚 Aprendizados
 
-🔹 Estruturação com HTML semântico 
+🔹 Estruturação com HTML semântico
+
 🔹 Utilização de listas e tabelas para exibir os itens do menu
+
 🔹 Estilização utilizando CSS
+
 🔹 Organização do código e boas práticas de formatação
