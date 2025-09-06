@@ -1,24 +1,24 @@
-📌 Objetivo
+Menu de Café
 
-Este projeto foi desenvolvido como parte dos meus estudos em front-end. O objetivo foi criar um cardápio digital responsivo, praticando HTML semântico e CSS (Flexbox e Grid) para estruturar e estilizar o conteúdo de forma clara e acessível.
+Especificações Técnicas Obrigatórias
 
-🛠️ Tecnologias Utilizadas
+Desenvolver uma página web que simula um cardápio de cafeteria, com layout limpo e responsivo. O projeto foi criado com o objetivo de praticar HTML semântico e CSS (Flexbox e Grid), aplicando boas práticas de front-end e organização de código.
 
-HTML5 – Estruturação do conteúdo com foco em semântica.
+Tecnologias utilizadas
 
-CSS3 – Estilização do layout utilizando Flexbox e Grid.
+HTML5
 
-
-🚀 Resultado
-
-O projeto resultou em uma página simples, limpa e responsiva que simula o cardápio de uma cafeteria.
+CSS3 (Flexbox e Grid)
 
 
+O que aprendi
 
-📚 O que aprendi
+HTML Semântico: utilização de tags como <header>, <section> e <footer> para estruturar o conteúdo de forma clara e acessível;
 
-Como aplicar HTML semântico para melhorar a acessibilidade e a organização do código.
+Flexbox e Grid: criação de layouts responsivos e organizados, aprendendo a distribuir elementos de forma proporcional e alinhada;
 
-Uso de Flexbox e Grid para criar layouts flexíveis e responsivos.
+Responsividade: adaptação do design para diferentes tamanhos de tela;
 
-Melhoria no entendimento de boas práticas de estruturação e estilização de páginas web.
+Organização de Código: manutenção de CSS limpo e organizado, facilitando ajustes futuros;
+
+Estilização de Interface: aplicação de cores, tipografia e espaçamento para criar uma interface agradável e funcional.
