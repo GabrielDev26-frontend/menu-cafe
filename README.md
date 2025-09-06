@@ -2,7 +2,7 @@ Menu de Café
 
 Especificações Técnicas Obrigatórias
 
-Desenvolver uma página web que simula um cardápio de cafeteria, com layout limpo e responsivo. O projeto foi criado com o objetivo de praticar HTML semântico e CSS (Flexbox e Grid), aplicando boas práticas de front-end e organização de código.
+Desenvolver uma página web que simula um cardápio de cafeteria, com layout limpo e responsivo. O projeto foi criado com o objetivo de praticar estruturação e estilização de páginas web, aplicando boas práticas de front-end.
 
 Tecnologias utilizadas
 
@@ -13,12 +13,12 @@ CSS3 (Flexbox e Grid)
 
 O que aprendi
 
-HTML Semântico: utilização de tags como <header>, <section> e <footer> para estruturar o conteúdo de forma clara e acessível;
+Estruturação de conteúdo: organizar informações de forma clara e acessível;
 
-Flexbox e Grid: criação de layouts responsivos e organizados, aprendendo a distribuir elementos de forma proporcional e alinhada;
+Flexbox e Grid: criar layouts responsivos e bem distribuídos;
 
-Responsividade: adaptação do design para diferentes tamanhos de tela;
+Responsividade: adaptar o design para diferentes tamanhos de tela;
 
-Organização de Código: manutenção de CSS limpo e organizado, facilitando ajustes futuros;
+Organização de código: manter CSS limpo e fácil de manter;
 
-Estilização de Interface: aplicação de cores, tipografia e espaçamento para criar uma interface agradável e funcional.
+Estilização de interface: aplicar cores, tipografia e espaçamento para melhorar a experiência do usuário.
